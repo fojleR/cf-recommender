@@ -1,0 +1,8 @@
+flask
+tensorflow
+pandas
+numpy
+requests
+scikit-learn  # Included as it might be a dependency of pickle or used implicitly
+Flask-Cors
+gunicorn # Add gunicorn
